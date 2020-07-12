@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1449218407 source:c:\users\labdas\desktop\yoga praktikum 10\fungsi.c
+	"Header.h"
+
+1449217365 c:\users\labdas\desktop\yoga praktikum 10\header.h
+
+1449216181 source:c:\users\labdas\desktop\yoga praktikum 10\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Header.h"
+
+1458649939 source:f:\kuliah\daspro\daspro\yoga praktikum 10\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Header.h"
+
+1449217366 f:\kuliah\daspro\daspro\yoga praktikum 10\header.h
+
